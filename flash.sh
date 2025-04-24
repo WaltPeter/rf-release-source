@@ -1,0 +1,1 @@
+dfu-util --download output.hex --reset -a 0

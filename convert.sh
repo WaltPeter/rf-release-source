@@ -1,0 +1,1 @@
+arm-none-eabi-objcopy -O ihex RANGER1S_2024_TEST_ZONE.elf output.hex
